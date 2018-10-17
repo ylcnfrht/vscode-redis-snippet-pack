@@ -1,0 +1,24 @@
+{
+    "name": "redissnippets",
+    "displayName": "redis command snippets pack",
+    "description": "Code snippets for redis commands",
+    "version": "1.0.0",
+    "publisher": "frhtylcn",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ylcnfrht/vscode-redis-snippet-pack"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+            "language": "javascript",
+            "path": "./snippets/redis_snippets.json"
+        }]
+    }
+}
