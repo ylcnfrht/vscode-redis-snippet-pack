@@ -2,8 +2,6 @@
 
 ##### A snippet pack to make you more productive working with redis commands for node js.
 
-##### This extension ships a bunch of useful redis command snippets for the node js in Visual Studio Code.
-
 ![](redis.gif)
 
 ##### Here's the full list of all the snippets:
@@ -176,6 +174,8 @@ https://redis.io/commands
 
 Initial release of redis command snippets
 
+### 1.0.1
 
+Delete a unnecessary comment line 
 -----------------------------------------------------------------------------------------------------------
 
